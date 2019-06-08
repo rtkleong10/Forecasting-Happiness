@@ -4,3 +4,7 @@ This is a data science project where we analysed the World Happiness Report 2018
 ## Data
 - The data comes from [World Happiness Report 2018](https://s3.amazonaws.com/happiness-report/2018/WHR2018Chapter2OnlineData.xls) and [Population Data from World Bank](https://data.worldbank.org/indicator/SP.POP.TOTL?view=chart)
 - The cleaned dataset is in the `happiness.csv` file.
+
+## How to Run
+- `pip install -r requirements.txt`
+- Open `ForecastingHappiness.ipynb` in Jupyter Notebook
